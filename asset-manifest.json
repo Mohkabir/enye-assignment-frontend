@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/enye-assignment-frontend/static/css/main.255bd9b2.chunk.css",
+    "main.js": "/enye-assignment-frontend/static/js/main.d2a520a5.chunk.js",
+    "main.js.map": "/enye-assignment-frontend/static/js/main.d2a520a5.chunk.js.map",
+    "runtime-main.js": "/enye-assignment-frontend/static/js/runtime-main.29ceed9f.js",
+    "runtime-main.js.map": "/enye-assignment-frontend/static/js/runtime-main.29ceed9f.js.map",
+    "static/js/2.b0ab3041.chunk.js": "/enye-assignment-frontend/static/js/2.b0ab3041.chunk.js",
+    "static/js/2.b0ab3041.chunk.js.map": "/enye-assignment-frontend/static/js/2.b0ab3041.chunk.js.map",
+    "index.html": "/enye-assignment-frontend/index.html",
+    "precache-manifest.2328cdd923356c36957de00f6a93679e.js": "/enye-assignment-frontend/precache-manifest.2328cdd923356c36957de00f6a93679e.js",
+    "service-worker.js": "/enye-assignment-frontend/service-worker.js",
+    "static/css/main.255bd9b2.chunk.css.map": "/enye-assignment-frontend/static/css/main.255bd9b2.chunk.css.map",
+    "static/js/2.b0ab3041.chunk.js.LICENSE.txt": "/enye-assignment-frontend/static/js/2.b0ab3041.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.29ceed9f.js",
+    "static/js/2.b0ab3041.chunk.js",
+    "static/css/main.255bd9b2.chunk.css",
+    "static/js/main.d2a520a5.chunk.js"
+  ]
+}
